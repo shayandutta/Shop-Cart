@@ -1,0 +1,1 @@
+just a vanilla js project
