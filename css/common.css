@@ -1,5 +1,8 @@
 :root{
     --blue-gray: #d5eef7;
+    --pale-blue: #3c5b7a;
+    --mid-gray: #999;
+    --jean-blue: #3b5875;
 }
 
 html {
@@ -16,7 +19,7 @@ html {
 }
 
 #header .header-wrapper .logo {
-    font-size: 1.35rem;
+    font-size: 1.5rem;
     line-height: 1.5;
 }
 
